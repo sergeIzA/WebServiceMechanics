@@ -12,7 +12,7 @@
 			The hobby was received as: <strong>${param.hobby}</strong>
 			<p>
 			Hobby: <input type="text" name="hobby"
-			value="${param.hobby}">
+							value="${param.hobby}">
 			<input type="submit" name="conﬁrmButton"
 			value="Confirm">
 		</form>
