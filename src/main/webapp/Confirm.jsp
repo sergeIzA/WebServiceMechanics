@@ -6,6 +6,6 @@
 </head>
 	<body>
 		<p>The value of the hobby that was sent to
-		this page is to: <strong>${param.hobby}</strong>.
+		this page is: <strong>${param.hobby}</strong>.
 	</body>
 </html>
